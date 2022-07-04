@@ -1,6 +1,7 @@
 Data/
 airbnb/
 notebooks/.ipynb_checkpoints/airbnb_predict_first_booking-Copy1-checkpoint.ipynb
+notebooks/.ipynb_checkpoints
 notebooks/sessions-Copy1.csv
 notebooks/sessions.csv
 notebooks/airbnb_predict_first_booking-Copy1.ipynb
